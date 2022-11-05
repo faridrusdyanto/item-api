@@ -1,4 +1,4 @@
-package com.farid.itemapi;
+package com.farid;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
