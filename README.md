@@ -1,5 +1,5 @@
-# note
-### create database MySql "itemapi"
+# Note
+### Create database MySql "itemapi"
 
 ### Services Item
   - (GET) -> getAlldata -> http://localhost:8080/api/item
