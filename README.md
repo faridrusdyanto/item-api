@@ -10,4 +10,5 @@
   
 ### Services Cart
   - (POST) addToCart -> http://localhost:8080/api/cart/addOne
+  - (POST) deleteByIdItem -> http://localhost:8080/api/cart/removeOne
   - (GET) finalize -> http://localhost:8080/api/cart/finalize
