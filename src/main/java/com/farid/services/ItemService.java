@@ -32,8 +32,4 @@ public class ItemService {
   public void removeOne(Long id) {
     itemRepo.deleteById(id);
   }
-
-  public List<Item> findByName(String name) {
-    return itemRepo.findByNameContains(name);
-  }
 }
